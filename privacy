@@ -1,0 +1,68 @@
+
+---
+
+# Privacy Policy
+
+**Last updated: March 6, 2026**
+
+This Privacy Policy describes how Plein Air Pro ("the App", "we", "our") handles your information. We built this app with privacy as a core principle — your creative work stays on your device.
+
+## Information We Do Not Collect
+
+- We do not collect personal information such as your name, email address, or location.
+- We do not use analytics, tracking, or advertising SDKs.
+- We do not upload your photos, painting sessions, or colour data to any server.
+- We do not require you to create an account.
+
+## Data Stored on Your Device
+
+The App stores the following data locally on your device only:
+
+- **Photos and reference images** you capture or import within the App.
+- **Painting session data** including extracted colours, mixing recipes, canvas labels, and timestamps.
+- **Palette preferences** including your selected and custom pigments.
+- **App settings** such as onboarding completion status and display preferences.
+
+This data is stored using on-device technologies (Core Data, the file system, and UserDefaults). It is never transmitted off your device by the App. You can delete this data at any time by deleting individual sessions within the App or by deleting the App itself.
+
+## Camera and Photo Library
+
+The App requests access to your device camera and photo library solely to:
+
+- Capture reference photos for colour analysis.
+- Import existing photos for colour analysis.
+- Capture images of your physical paint palette to create custom colours.
+
+Photos are processed entirely on-device. They are not uploaded, shared, or transmitted to any external service.
+
+## Subscription and Purchase Data
+
+The App uses [RevenueCat](https://www.revenuecat.com) to manage subscriptions and in-app purchases. When you make a purchase or restore a previous purchase, RevenueCat may process the following:
+
+- An anonymous App User ID (generated automatically; not linked to your personal identity).
+- Purchase and subscription status information provided by Apple.
+- Basic device information (such as OS version and app version) for purchase validation.
+
+RevenueCat acts as a data processor on our behalf. We do not receive or store your payment details — all payment processing is handled by Apple through the App Store. You can review RevenueCat's privacy policy at [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy).
+
+No other third-party services, SDKs, or APIs are used.
+
+## Data Retention
+
+All painting session data, photos, and preferences remain on your device until you choose to delete them. We have no access to this data and cannot retrieve or delete it remotely.
+
+Purchase and subscription records are retained by Apple and RevenueCat in accordance with their respective data retention policies.
+
+## Children's Privacy
+
+The App does not knowingly collect any personal information from children under the age of 13. The App does not require any personal information to function.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date. Continued use of the App after changes constitutes acceptance of the revised policy.
+
+## Contact
+
+If you have questions about this Privacy Policy, please contact us at:
+
+**[your-email@example.com]**
